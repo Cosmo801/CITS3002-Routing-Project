@@ -1,0 +1,11 @@
+
+python3 StationPython.py East_Perth_Stn 4004 4003 4005 4014 &
+python3 StationPython.py Mt_Lawley_Stn 4006 4005 4003 4007 &
+python3 StationPython.py Maylands_Stn 4008 4007 4005 4009 &
+python3 StationPython.py Meltham_Stn 4010 4009 4007 4012 &
+python3 StationPython.py Bayswater_Stn 4011 4012 4009 &
+python3 StationPython.py Claisebrook_Stn 4013 4014 4003 &
+
+
+
+
