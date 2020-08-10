@@ -1,5 +1,9 @@
 By William Knight 21722128
 
+'The goal of this project is to develop a server application to manage the data and permit queries about bus and train routes, such as those in the Transperth transport network. By successfully completing the project, you will have a greater understanding of the standard TCP and UDP protocols running over IP, communication between web-browsers and application programs using HTTP and HTML, and will have developed a simple text-based protocol to make and reply to queries for distributed information.' - Project Description
+
+This project basically simulates how routing can work in the real world. Each StationServer (Router) has a known path to adjacent StationServers (A bus trip). In order to travel from destination A to B several hops may be required - these hops are symbolized by a bus trip and the router is symbolized by the bus station.
+
 1. Implementation 1 - JAVA - Located in src folder
 Compile with javac StationJava.java if need to recompile
 Will only read timetables in the src/timetables folder
